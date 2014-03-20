@@ -1,0 +1,11 @@
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/Booking.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/Hotel.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/HotelsController.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/SearchCriteria.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/BookingDateRangeValidator.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/Amenity.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/BookingService.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/JpaBookingService.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/BookingDateRange.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/BookingFlowHandler.java
+/Users/fmelo/Documents/workspace-sts-3.0.0.RELEASE/Booking-mvc-hotels/src/main/java/org/springframework/webflow/samples/booking/User.java
